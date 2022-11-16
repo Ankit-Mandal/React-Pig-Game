@@ -21,7 +21,7 @@
 .score {
   font-size: 8rem;
   font-weight: 300;
-  color: #c7365f;
+  color: #067c45;
   margin-bottom: auto;
 }
 
@@ -40,7 +40,7 @@
 }
 
 .current {
-  background-color: #c7365f;
+  background-color: #078b49;
   opacity: 0.8;
   border-radius: 9px;
   color: #fff;
